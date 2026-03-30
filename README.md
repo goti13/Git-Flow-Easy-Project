@@ -1,4 +1,4 @@
-https://img.shields.io/badge/version-1.0.0-blue
+
 
 # Git Flow Lab
 
@@ -81,3 +81,42 @@ Open `http://localhost:8080` in your browser.
 
 ### v1.0.1 — Hotfix
 - Improved dark mode text contrast for WCAG AA compliance
+
+<img width="1260" height="858" alt="image" src="https://github.com/user-attachments/assets/a3c458e9-1e73-436f-b279-52fecc498860" />
+
+<img width="1258" height="920" alt="image" src="https://github.com/user-attachments/assets/73d6d368-af83-4c22-820f-020207948d92" />
+
+<img width="1260" height="864" alt="image" src="https://github.com/user-attachments/assets/461630b1-0127-400d-883a-af7ae7fc8f5b" />
+
+<img width="1268" height="914" alt="image" src="https://github.com/user-attachments/assets/e9790889-76f4-403d-a421-3bb24f28045b" />
+
+<img width="1268" height="956" alt="image" src="https://github.com/user-attachments/assets/53d4bbbf-5fac-48db-8681-64049b03cc0c" />
+
+<img width="1250" height="428" alt="image" src="https://github.com/user-attachments/assets/601ea992-6a78-4f09-acf7-b4a5ef2c4e93" />
+
+
+<img width="1262" height="1076" alt="image" src="https://github.com/user-attachments/assets/a5e4fe01-cfea-4d42-8d01-df842c3fc6ae" />
+
+
+<img width="1268" height="322" alt="image" src="https://github.com/user-attachments/assets/c04bbdab-da7f-4537-9cb5-3da53b6c2399" />
+
+<img width="1290" height="234" alt="image" src="https://github.com/user-attachments/assets/d58150ef-d00a-442d-9e3c-264c2512c40c" />
+
+<img width="1280" height="1302" alt="image" src="https://github.com/user-attachments/assets/287ee5e4-9f58-42cd-9b12-4920faa531b8" />
+
+
+<img width="1268" height="1272" alt="image" src="https://github.com/user-attachments/assets/a118b160-8e75-4ad4-beab-92ff005bec39" />
+
+
+<img width="1250" height="518" alt="image" src="https://github.com/user-attachments/assets/9eb77890-789f-42ba-aece-6be30968dbf3" />
+
+
+
+
+
+
+
+
+
+
+
