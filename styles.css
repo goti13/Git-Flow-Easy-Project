@@ -3,6 +3,8 @@ body {
   margin: 0;
   padding: 2rem;
   background: #f6f8fa;
+  color: #24292f;
+  transition: background 0.25s, color 0.25s;
 }
 
 /* Header & Nav */
@@ -52,7 +54,45 @@ nav {
   color: #fff;
 }
 
+/* Theme toggle button */
+#theme-toggle {
+  background: transparent;
+  border: 1px solid #768390;
+  color: #cdd9e5;
+  border-radius: 6px;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+#theme-toggle:hover {
+  border-color: #cdd9e5;
+  color: #fff;
+}
+
 /* Push page content below fixed header */
 body {
   padding-top: 4.5rem;
+}
+
+/* ── Dark theme ───────────────────────────────────────────── */
+[data-theme="dark"] {
+  background: #0d1117;
+  color: #e6edf3;
+}
+
+[data-theme="dark"] header {
+  background: #161b22;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+[data-theme="dark"] #theme-toggle {
+  border-color: #30363d;
+  color: #8b949e;
+}
+
+[data-theme="dark"] #theme-toggle:hover {
+  border-color: #8b949e;
+  color: #e6edf3;
 }
