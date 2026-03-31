@@ -231,15 +231,3 @@ Commit with `chore: add .gitignore`.
 
 ---
 
-## 9 ▸ Submission Checklist
-
-1. **Repository link** (even if it's private).
-2. Screenshots (or a Loom/GIF) demonstrating:
-    - Running site in browser.
-    - `git log --graph` illustrating branch merges.
-3. A short write‑up (max ½ page) answering:
-    - "What problem does Git Flow solve for teams?"
-    - "Which Git command did you find most useful and why?"
-
-> 🏁 **Celebrate** – you have implemented a mini web project *and* practised a professional branching strategy. Push onward to bigger things! 🚀
->
